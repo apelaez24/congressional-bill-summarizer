@@ -1,0 +1,7 @@
+# Don't upload sensitive or unnecessary files
+.env
+__pycache__/
+*.pyc
+instance/
+.vscode/
+.env.*
