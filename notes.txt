@@ -1,0 +1,993 @@
+ "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Placed on the Union Calendar, Calendar No. 118."
+    },
+    "number": "2351",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001240",
+        "district": 6,
+        "firstName": "Addison",
+        "fullName": "Rep. McDowell, Addison [R-NC-6]",
+        "isByRequest": "N",
+        "lastName": "McDowell",
+        "middleName":
+📊 Bill Metadata:
+  bill_id title shortTitle introducedDate latestAction subjects
+0  HR2351  None       None           None         None       []
+Sponsor URI: None
+⚠️ No sponsor URI available.
+
+⚠️ No plain text version available.
+
+📎 No amendments found.
+
+==============================
+🔍 Exploring new bill (summary view)...
+Raw keys: ['congress', 'latestAction', 'number', 'originChamber', 'originChamberCode', 'title', 'type', 'updateDate', 'updateDateIncludingText', 'url']
+📄 Bill ID: HR252
+
+🔍 DEBUG: Full bill JSON preview (first 2000 characters):
+{
+  "bill": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/252/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/252/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 5 (Thursday, January 9, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CALVERT:\nH.R. 252.\nCongress has the power to enact this legislation pursuant\nto the following:\nThe constitutional authority of Congress to enact this\nlegislation is provided by Article I, Section 8 of the United\nStates Constitution, specifically clause 1 and clause 18.\n[Page H92]\n</pre>",
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/252/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-09",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Placed on the Union Calendar, Calendar No. 117."
+    },
+    "number": "252",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C000059",
+        "district": 41,
+        "firstName": "Ken",
+        "fullName": "Rep. Calvert, Ken [R-CA-41]",
+        "isByRequest": "N",
+        "lastName": "Calvert",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/C000059?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/252/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/252/text?format=json"
+    },
+    "title": "Secure Our Ports Act of 2025",
+    "titles
+📊 Bill Metadata:
+  bill_id title shortTitle introducedDate latestAction subjects
+0   HR252  None       None           None         None       []
+Sponsor URI: None
+⚠️ No sponsor URI available.
+
+⚠️ No plain text version available.
+
+📎 No amendments found.
+
+==============================
+🔍 Exploring new bill (summary view)...
+Raw keys: ['congress', 'latestAction', 'number', 'originChamber', 'originChamberCode', 'title', 'type', 'updateDate', 'updateDateIncludingText', 'url']
+📄 Bill ID: HR2035
+
+🔍 DEBUG: Full bill JSON preview (first 2000 characters):
+{
+  "bill": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2035/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2035/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 45 (Tuesday, March 11, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CARBAJAL:\nH.R. 2035.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section 8, clause 3\n[Page H1151]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2035/cosponsors?format=json"
+    },
+    "introducedDate": "2025-03-11",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Placed on the Union Calendar, Calendar No. 116."
+    },
+    "number": "2035",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001112",
+        "district": 24,
+        "firstName": "Salud",
+        "fullName": "Rep. Carbajal, Salud O. [D-CA-24]",
+        "isByRequest": "N",
+        "lastName": "Carbajal",
+        "middleName": "O.",
+        "party": "D",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/C001112?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2035/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2035/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2035/text?format=json"
+    },
+    "title": "American Cargo fo
+📊 Bill Metadata:
+  bill_id title shortTitle introducedDate latestAction subjects
+0  HR2035  None       None           None         None       []
+Sponsor URI: None
+⚠️ No sponsor URI available.
+
+⚠️ No plain text version available.
+
+📎 No amendments found.
+
+==============================
+🔍 Exploring new bill (summary view)...
+Raw keys: ['congress', 'latestAction', 'number', 'originChamber', 'originChamberCode', 'title', 'type', 'updateDate', 'updateDateIncludingText', 'url']
+📄 Bill ID: HR248
+
+🔍 DEBUG: Full bill JSON preview (first 2000 characters):
+{
+  "bill": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/248/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Transportation and Infrastructure on April 2, 2025",
+        "pubDate": "2025-06-04T17:06:00Z",
+        "title": "H.R. 248, Baby Changing on Board Act",
+        "url": "https://www.cbo.gov/publication/61462"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/248/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 5 (Thursday, January 9, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Ms. UNDERWOOD:\nH.R. 248.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the United States Constitution\n[Page H92]\n</pre>",
+    "cosponsors": {
+      "count": 7,
+      "countIncludingWithdrawnCosponsors": 7,
+      "url": "https://api.congress.gov/v3/bill/119/hr/248/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-09",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Placed on the Union Calendar, Calendar No. 115."
+    },
+    "number": "248",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/248/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "U000040",
+        "district": 14,
+        "firstName": "Lauren",
+        "fullName": "Rep. Underwood, Lauren [D-IL-14]",
+        "isByRequest": "N",
+        "lastName": "Underwood",
+        "party": "D",
+        "state": "IL",
+        "url": "https://api.congress.gov/v
+📊 Bill Metadata:
+  bill_id title shortTitle introducedDate latestAction subjects
+0   HR248  None       None           None         None       []
+Sponsor URI: None
+⚠️ No sponsor URI available.
+
+⚠️ No plain text version available.
+
+📎 No amendments found.
+
+==============================
+🔍 Exploring new bill (summary view)...
+Raw keys: ['congress', 'latestAction', 'number', 'originChamber', 'originChamberCode', 'title', 'type', 'updateDate', 'updateDateIncludingText', 'url']
+📄 Bill ID: HR2390
+
+🔍 DEBUG: Full bill JSON preview (first 2000 characters):
+{
+  "bill": {
+    "actions": {
+      "count": 10,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2390/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As ordered reported by the House Committee on Transportation and Infrastructure on April 2, 2025",
+        "pubDate": "2025-05-28T17:01:00Z",
+        "title": "H.R. 2390, Maritime Supply Chain Security Act",
+        "url": "https://www.cbo.gov/publication/61437"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2390/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 55 (Wednesday, March 26, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. ROUZER:\nH.R. 2390.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle I, Section VIII\n[Page H1303]\n</pre>",
+    "introducedDate": "2025-03-26",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Placed on the Union Calendar, Calendar No. 114."
+    },
+    "number": "2390",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000603",
+        "district": 7,
+        "firstName": "David",
+        "fullName": "Rep. Rouzer, David [R-NC-7]",
+        "isByRequest": "N",
+        "lastName": "Rouzer",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/R000603?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2390/subjects?format=json"
+    },
+    "textVersions": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/2390/text?format=json"
+    },
+    "title": "Maritime Supply Chain Sec
+📊 Bill Metadata:
+  bill_id title shortTitle introducedDate latestAction subjects
+0  HR2390  None       None           None         None       []
+Sponsor URI: None
+⚠️ No sponsor URI available.
+
+⚠️ No plain text version available.
+
+📎 No amendments found.
+
+==============================
+🔍 Exploring new bill (summary view)...
+Raw keys: ['congress', 'latestAction', 'number', 'originChamber', 'originChamberCode', 'title', 'type', 'updateDate', 'updateDateIncludingText', 'url']
+📄 Bill ID: HR188
+
+🔍 DEBUG: Full bill JSON preview (first 2000 characters):
+{
+  "bill": {
+    "actions": {
+      "count": 12,
+      "url": "https://api.congress.gov/v3/bill/119/hr/188/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/188/committees?format=json"
+    },
+    "congress": 119,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. NEHLS:\nH.R. 188.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 8 of the US Constitution\nThe single subject of this legislation is:\nTo apply the requirements of the Government in the Sunshine\nAct to meetings of Amtrak's Board of Directors\n[Page H42]\n</pre>",
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/188/cosponsors?format=json"
+    },
+    "introducedDate": "2025-01-03",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Placed on the Union Calendar, Calendar No. 113."
+    },
+    "number": "188",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000026",
+        "district": 22,
+        "firstName": "Troy",
+        "fullName": "Rep. Nehls, Troy E. [R-TX-22]",
+        "isByRequest": "N",
+        "lastName": "Nehls",
+        "middleName": "E.",
+        "party": "R",
+        "state": "TX",
+        "url": "https://api.congress.gov/v3/member/N000026?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/188/subjects?format=json"
+    },
+    "summaries": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/188/summaries?format=json"
+    },
+    "textV
+📊 Bill Metadata:
+  bill_id title shortTitle introducedDate latestAction subjects
+0   HR188  None       None           None         None       []
+Sponsor URI: None
+⚠️ No sponsor URI available.
+
+⚠️ No plain text version available.
+
+📎 No amendments found.
+
+==============================
+🔍 Exploring new bill (summary view)...
+Raw keys: ['congress', 'latestAction', 'number', 'originChamber', 'originChamberCode', 'title', 'type', 'updateDate', 'updateDateIncludingText', 'url']
+📄 Bill ID: HRES484
+
+🔍 DEBUG: Full bill JSON preview (first 2000 characters):
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hres/484/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hres/484/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-06-06",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "number": "484",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "D000624",
+        "district": 6,
+        "firstName": "Debbie",
+        "fullName": "Rep. Dingell, Debbie [D-MI-6]",
+        "isByRequest": "N",
+        "lastName": "Dingell",
+        "party": "D",
+        "state": "MI",
+        "url": "https://api.congress.gov/v3/member/D000624?format=json"
+      }
+    ],
+    "title": "Expressing support for the recognition of \"Hidradenitis Suppurativa Awareness Week\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hres/484/titles?format=json"
+    },
+    "type": "HRES",
+    "updateDate": "2025-06-07T08:06:25Z",
+    "updateDateIncludingText": "2025-06-07T08:06:25Z"
+  },
+  "request": {
+    "billNumber": "484",
+    "billType": "hres",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}
+📊 Bill Metadata:
+   bill_id title shortTitle introducedDate latestAction subjects
+0  HRES484  None       None           None         None       []
+Sponsor URI: None
+⚠️ No sponsor URI available.
+
+⚠️ No plain text version available.
+
+📎 No amendments found.
+
+==============================
+🔍 Exploring new bill (summary view)...
+Raw keys: ['congress', 'latestAction', 'number', 'originChamber', 'originChamberCode', 'title', 'type', 'updateDate', 'updateDateIncludingText', 'url']
+📄 Bill ID: HR3824
+
+🔍 DEBUG: Full bill JSON preview (first 2000 characters):
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3824/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3824/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 4,
+      "countIncludingWithdrawnCosponsors": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3824/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-06",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "number": "3824",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "R000603",
+        "district": 7,
+        "firstName": "David",
+        "fullName": "Rep. Rouzer, David [R-NC-7]",
+        "isByRequest": "N",
+        "lastName": "Rouzer",
+        "party": "R",
+        "state": "NC",
+        "url": "https://api.congress.gov/v3/member/R000603?format=json"
+      }
+    ],
+    "title": "To amend the Federal Insecticide, Fungicide, and Rodenticide Act and the Federal Water Pollution Control Act to clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3824/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-06-07T08:06:31Z",
+    "updateDateIncludingText": "2025-06-07T08:06:31Z"
+  },
+  "request": {
+    "billNumber": "3824",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}
+📊 Bill Metadata:
+  bill_id title shortTitle introducedDate latestAction subjects
+0  HR3824  None       None           None         None       []
+Sponsor URI: None
+⚠️ No sponsor URI available.
+
+⚠️ No plain text version available.
+
+📎 No amendments found.
+
+==============================
+🔍 Exploring new bill (summary view)...
+Raw keys: ['congress', 'latestAction', 'number', 'originChamber', 'originChamberCode', 'title', 'type', 'updateDate', 'updateDateIncludingText', 'url']
+📄 Bill ID: HR3810
+
+🔍 DEBUG: Full bill JSON preview (first 2000 characters):
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3810/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3810/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 3,
+      "countIncludingWithdrawnCosponsors": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3810/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-06",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "number": "3810",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "F000480",
+        "district": 20,
+        "firstName": "Vince",
+        "fullName": "Rep. Fong, Vince [R-CA-20]",
+        "isByRequest": "N",
+        "lastName": "Fong",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/F000480?format=json"
+      }
+    ],
+    "title": "To require the Attorney General to report to Congress on Federal, State, and local efforts to combat access device fraud, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3810/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-06-07T08:06:19Z",
+    "updateDateIncludingText": "2025-06-07T08:06:19Z"
+  },
+  "request": {
+    "billNumber": "3810",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}
+📊 Bill Metadata:
+  bill_id title shortTitle introducedDate latestAction subjects
+0  HR3810  None       None           None         None       []
+Sponsor URI: None
+⚠️ No sponsor URI available.
+
+⚠️ No plain text version available.
+
+📎 No amendments found.
+
+==============================
+🔍 Exploring new bill (summary view)...
+Raw keys: ['congress', 'latestAction', 'number', 'originChamber', 'originChamberCode', 'title', 'type', 'updateDate', 'updateDateIncludingText', 'url']
+📄 Bill ID: HR3800
+
+🔍 DEBUG: Full bill JSON preview (first 2000 characters):
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3800/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3800/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 2,
+      "countIncludingWithdrawnCosponsors": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3800/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-06",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Referred to the House Committee on Financial Services."
+    },
+    "number": "3800",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "L000578",
+        "district": 1,
+        "firstName": "Doug",
+        "fullName": "Rep. LaMalfa, Doug [R-CA-1]",
+        "isByRequest": "N",
+        "lastName": "LaMalfa",
+        "party": "R",
+        "state": "CA",
+        "url": "https://api.congress.gov/v3/member/L000578?format=json"
+      }
+    ],
+    "title": "To amend the National Flood Insurance Act of 1968 to prohibit the deferral of the issuance of letters of map revision based on the placement of fill or conditional letters of map revision based on the placement of fill, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3800/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-06-07T08:06:33Z",
+    "updateDateIncludingText": "2025-06-07T08:06:33Z"
+  },
+  "request": {
+    "billNumber": "3800",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}
+📊 Bill Metadata:
+  bill_id title shortTitle introducedDate latestAction subjects
+0  HR3800  None       None           None         None       []
+Sponsor URI: None
+⚠️ No sponsor URI available.
+
+⚠️ No plain text version available.
+
+📎 No amendments found.
+
+==============================
+🔍 Exploring new bill (summary view)...
+Raw keys: ['congress', 'latestAction', 'number', 'originChamber', 'originChamberCode', 'title', 'type', 'updateDate', 'updateDateIncludingText', 'url']
+📄 Bill ID: HR3821
+
+🔍 DEBUG: Full bill JSON preview (first 2000 characters):
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3821/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3821/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 5,
+      "countIncludingWithdrawnCosponsors": 5,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3821/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-06",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Referred to the House Committee on Energy and Commerce."
+    },
+    "number": "3821",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "M001234",
+        "district": 3,
+        "firstName": "Kelly",
+        "fullName": "Rep. Morrison, Kelly [D-MN-3]",
+        "isByRequest": "N",
+        "lastName": "Morrison",
+        "party": "D",
+        "state": "MN",
+        "url": "https://api.congress.gov/v3/member/M001234?format=json"
+      }
+    ],
+    "title": "To amend the Federal Food, Drug, and Cosmetic Act to require the label of a drug intended for human use to identify each ingredient in such drug that is, or is derived directly or indirectly from, a major food allergen or a gluten-containing grain, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3821/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-06-07T08:06:32Z",
+    "updateDateIncludingText": "2025-06-07T08:06:32Z"
+  },
+  "request": {
+    "billNumber": "3821",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}
+📊 Bill Metadata:
+  bill_id title shortTitle introducedDate latestAction subjects
+0  HR3821  None       None           None         None       []
+Sponsor URI: None
+⚠️ No sponsor URI available.
+
+⚠️ No plain text version available.
+
+📎 No amendments found.
+
+==============================
+🔍 Exploring new bill (summary view)...
+Raw keys: ['congress', 'latestAction', 'number', 'originChamber', 'originChamberCode', 'title', 'type', 'updateDate', 'updateDateIncludingText', 'url']
+📄 Bill ID: HR3814
+
+🔍 DEBUG: Full bill JSON preview (first 2000 characters):
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3814/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3814/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3814/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-06",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Referred to the House Committee on Natural Resources."
+    },
+    "number": "3814",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "H001103",
+        "firstName": "Pablo",
+        "fullName": "Rescom. Hern\u00e1ndez, Pablo Jose [D-PR-At Large]",
+        "isByRequest": "N",
+        "lastName": "Hern\u00e1ndez",
+        "middleName": "Jose",
+        "party": "D",
+        "state": "PR",
+        "url": "https://api.congress.gov/v3/member/H001103?format=json"
+      }
+    ],
+    "title": "To require the Comptroller General of the United States to conduct a study on the effects of coastal erosion on tourism and other businesses in Puerto Rico, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3814/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-06-07T08:06:20Z",
+    "updateDateIncludingText": "2025-06-07T08:06:20Z"
+  },
+  "request": {
+    "billNumber": "3814",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}
+📊 Bill Metadata:
+  bill_id title shortTitle introducedDate latestAction subjects
+0  HR3814  None       None           None         None       []
+Sponsor URI: None
+⚠️ No sponsor URI available.
+
+⚠️ No plain text version available.
+
+📎 No amendments found.
+
+==============================
+🔍 Exploring new bill (summary view)...
+Raw keys: ['congress', 'latestAction', 'number', 'originChamber', 'originChamberCode', 'title', 'type', 'updateDate', 'updateDateIncludingText', 'url']
+📄 Bill ID: HR3799
+
+🔍 DEBUG: Full bill JSON preview (first 2000 characters):
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3799/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3799/committees?format=json"
+    },
+    "congress": 119,
+    "introducedDate": "2025-06-06",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Referred to the House Committee on Transportation and Infrastructure."
+    },
+    "number": "3799",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "B001309",
+        "district": 2,
+        "firstName": "Tim",
+        "fullName": "Rep. Burchett, Tim [R-TN-2]",
+        "isByRequest": "N",
+        "lastName": "Burchett",
+        "party": "R",
+        "state": "TN",
+        "url": "https://api.congress.gov/v3/member/B001309?format=json"
+      }
+    ],
+    "title": "To codify the executive order relating to Enforcing Commonsense Rules of the Road for America's Truck Drivers.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3799/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-06-07T08:06:20Z",
+    "updateDateIncludingText": "2025-06-07T08:06:20Z"
+  },
+  "request": {
+    "billNumber": "3799",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}
+📊 Bill Metadata:
+  bill_id title shortTitle introducedDate latestAction subjects
+0  HR3799  None       None           None         None       []
+Sponsor URI: None
+⚠️ No sponsor URI available.
+
+⚠️ No plain text version available.
+
+📎 No amendments found.
+
+==============================
+🔍 Exploring new bill (summary view)...
+Raw keys: ['congress', 'latestAction', 'number', 'originChamber', 'originChamberCode', 'title', 'type', 'updateDate', 'updateDateIncludingText', 'url']
+📄 Bill ID: HR3828
+
+🔍 DEBUG: Full bill JSON preview (first 2000 characters):
+{
+  "bill": {
+    "actions": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3828/actions?format=json"
+    },
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3828/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3828/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-06",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Referred to the House Committee on the Judiciary."
+    },
+    "number": "3828",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "V000081",
+        "district": 7,
+        "firstName": "Nydia",
+        "fullName": "Rep. Vel\u00e1zquez, Nydia M. [D-NY-7]",
+        "isByRequest": "N",
+        "lastName": "Vel\u00e1zquez",
+        "middleName": "M.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/V000081?format=json"
+      }
+    ],
+    "title": "To amend section 287 of the Immigration and Nationality Act to prohibit immigration officers or agents of the Department of Homeland Security from wearing clothing or other items bearing the word \"police\".",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3828/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-06-07T08:06:13Z",
+    "updateDateIncludingText": "2025-06-07T08:06:13Z"
+  },
+  "request": {
+    "billNumber": "3828",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}
+📊 Bill Metadata:
+  bill_id title shortTitle introducedDate latestAction subjects
+0  HR3828  None       None           None         None       []
+Sponsor URI: None
+⚠️ No sponsor URI available.
+
+⚠️ No plain text version available.
+
+📎 No amendments found.
+
+==============================
+🔍 Exploring new bill (summary view)...
+Raw keys: ['congress', 'latestAction', 'number', 'originChamber', 'originChamberCode', 'title', 'type', 'updateDate', 'updateDateIncludingText', 'url']
+📄 Bill ID: HR3829
+
+🔍 DEBUG: Full bill JSON preview (first 2000 characters):
+{
+  "bill": {
+    "actions": {
+      "count": 4,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3829/actions?format=json"
+    },
+    "committees": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3829/committees?format=json"
+    },
+    "congress": 119,
+    "cosponsors": {
+      "count": 1,
+      "countIncludingWithdrawnCosponsors": 1,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3829/cosponsors?format=json"
+    },
+    "introducedDate": "2025-06-06",
+    "latestAction": {
+      "actionDate": "2025-06-06",
+      "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+    },
+    "number": "3829",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "sponsors": [
+      {
+        "bioguideId": "V000081",
+        "district": 7,
+        "firstName": "Nydia",
+        "fullName": "Rep. Vel\u00e1zquez, Nydia M. [D-NY-7]",
+        "isByRequest": "N",
+        "lastName": "Vel\u00e1zquez",
+        "middleName": "M.",
+        "party": "D",
+        "state": "NY",
+        "url": "https://api.congress.gov/v3/member/V000081?format=json"
+      }
+    ],
+    "title": "To require the Director of the Financial Crimes Enforcement Network and the Administrator of the Small Business Administration to enter into a memorandum of understanding to ensure the dissemination of covered information, and for other purposes.",
+    "titles": {
+      "count": 2,
+      "url": "https://api.congress.gov/v3/bill/119/hr/3829/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2025-06-07T08:06:27Z",
+    "updateDateIncludingText": "2025-06-07T08:06:27Z"
+  },
+  "request": {
+    "billNumber": "3829",
+    "billType": "hr",
+    "congress": "119",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}
+📊 Bill Metadata:
+  bill_id title shortTitle introducedDate latestAction subjects
+0  HR3829  None       None           None         None       []
+Sponsor URI: None
+⚠️ No sponsor URI available.
+
+⚠️ No plain text version available.
+
+📎 No amendments found.
+
+(congress_env) C:\Users\pelae\OneDrive\Desktop\dev\congressional-bill-summarizer>.env

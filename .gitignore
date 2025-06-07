@@ -2,6 +2,12 @@
 .env
 __pycache__/
 *.pyc
-instance/
-.vscode/
+*.log
+logs/
+*.sqlite3
+.DS_Store
 .env.*
+*.bak
+*.swp
+.idea/
+.vscode/
