@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 from datetime import datetime
 from bs4 import BeautifulSoup
 from collections import Counter
+from html_scraper_utils import scrape_congress_summary  # Import from Selenium scraper module
 
 # Load environment variables
 load_dotenv()
@@ -25,11 +26,13 @@ log_file_path = os.path.join(LOG_DIR, f"explore_{datetime.now().strftime('%Y-%m-
 
 missing_summary_queue = []  # Stores bills that have no summary or text
 
+
 def log(msg):
     """Helper function to print and log messages."""
     print(msg)
     with open(log_file_path, "a", encoding="utf-8") as f:
         f.write(msg + "\n")
+
 
 def call_api(endpoint, params=None):
     """Make an API GET call with retry logic and error handling."""
@@ -49,6 +52,7 @@ def call_api(endpoint, params=None):
     except Exception as e:
         raise RuntimeError(f"❌ Unknown error on {endpoint}: {e}")
 
+
 def get_recent_bills(congress=119, chamber="house", limit=5):
     """Fetch a list of recent bills for a specific chamber and congress."""
     log("📦 Fetching recent bills (summary)...")
@@ -63,6 +67,7 @@ def get_recent_bills(congress=119, chamber="house", limit=5):
 
     return data["bills"]
 
+
 def fetch_all_pages(base_url):
     """Handles pagination for endpoints like cosponsors or amendments."""
     results = []
@@ -72,6 +77,7 @@ def fetch_all_pages(base_url):
         results.extend(page_items)
         base_url = data.get("pagination", {}).get("next")
     return results
+
 
 def explore_bill_data(summary):
     """Explore all details of a given bill summary object from /bill."""
@@ -155,13 +161,17 @@ def explore_bill_data(summary):
                     log("\n📄 Summary:")
                     log(plain_summary.strip())
                 else:
-                    log("⚠️ No summaries found.")
-                    missing_summary_queue.append(bill_id)
+                    raise ValueError("No summaries returned from API")
             else:
-                log("⚠️ No summaries URL available.")
-                missing_summary_queue.append(bill_id)
-        except Exception as ex:
-            log(f"⚠️ Summary retrieval failed: {ex}")
+                raise ValueError("No summaries URL available")
+        except Exception:
+            log(f"⚠️ Summary not available via API, using HTML scraper for {bill_id}...")
+            html_summary = scrape_congress_summary(bill_id, str(congress))
+            if html_summary:
+                log("\n📄 Scraped Summary:")
+                log(html_summary.strip())
+            else:
+                log(f"⚠️ Could not scrape summary for {bill_id}")
             missing_summary_queue.append(bill_id)
 
     # --- Amendments ---
