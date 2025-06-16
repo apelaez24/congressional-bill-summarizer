@@ -18,19 +18,20 @@ This project fetches, inspects, and logs detailed U.S. Congressional bill data f
 
 ## 📁 Directory Structure
 
-congressional-bill-summarizer/
+```
+📁 congressional-bill-summarizer/
 │
 ├── data_pipeline/
-│ └── explore_api_data.py # Main script for API exploration
+│   └── explore_api_data.py          # Main script for API exploration
 │
 ├── logs/
-│ └── explore_YYYY-MM-DD_HHMMSS.log # Run-by-run logs
+│   └── explore_YYYY-MM-DD_HHMMSS.log   # Run-by-run logs
 │
-├── requirements.txt # Dependencies for the environment
-├── .gitignore # Ignore rules for Git
-├── README.md # Project documentation
-├── CHANGELOG.md # List of changes by version
-└── .env # Stores your GOV_API_KEY (not committed)
+├── requirements.txt   # Dependencies for the environment
+├── .gitignore         # Ignore rules for Git
+├── README.md          # Project documentation
+├── CHANGELOG.md       # List of changes by version
+└── .env               # Stores your GOV_API_KEY (not committed)
 
 ---
 
