@@ -32,7 +32,7 @@ This project fetches, inspects, and logs detailed U.S. Congressional bill data f
 ├── README.md          # Project documentation
 ├── CHANGELOG.md       # List of changes by version
 └── .env               # Stores your GOV_API_KEY (not committed)
-
+```
 ---
 
 ## 🛠 Setup Instructions
